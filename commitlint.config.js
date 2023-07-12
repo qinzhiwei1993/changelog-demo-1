@@ -17,7 +17,8 @@ module.exports = {
         'subject-case': [
             2,
             'never',
-            ['lower-case', // default
+            [
+                'lower-case', // default
                 'upper-case', // UPPERCASE
                 'camel-case', // camelCase
                 'kebab-case', // kebab-case
