@@ -1,3 +1,47 @@
+# [1.3.0](https://github.com/qinzhiwei1993/changelog-demo-1/compare/v1.2.0...v1.3.0) (2023-07-12)
+
+
+### ♻ Code Refactoring | 代码重构
+
+* 项目重构 ([5c27fa4](https://github.com/qinzhiwei1993/changelog-demo-1/commit/5c27fa4450a223d641109bf776e3aa86d93ccb85))
+
+
+### ⚡ Performance Improvements | 性能优化
+
+* 性能优化 ([3011f60](https://github.com/qinzhiwei1993/changelog-demo-1/commit/3011f602dd575b75a706aa4205dfa5b94aac42fb))
+
+
+### ✨ Features | 新功能
+
+* 新增功能 ([28460ee](https://github.com/qinzhiwei1993/changelog-demo-1/commit/28460eec67816a897363f3c00f62d19feca9f611))
+
+
+### 🎫 Chores | 其他更新
+
+* 版本上线 ([74c58d4](https://github.com/qinzhiwei1993/changelog-demo-1/commit/74c58d4e354de91db2fe7a2b54f85a71dfad3e29))
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 修复某个bug ([899f9b0](https://github.com/qinzhiwei1993/changelog-demo-1/commit/899f9b0c4d7b5c4bcdf5608c963d8ed2a2e65109))
+
+
+### 💄 Styles | 风格
+
+* 格式变更 ([b1f9dbc](https://github.com/qinzhiwei1993/changelog-demo-1/commit/b1f9dbc21e3e4b5582ecfe43838d35c9ec1cd088))
+
+
+### 📝 Documentation | 文档
+
+* 文档变更 ([544a119](https://github.com/qinzhiwei1993/changelog-demo-1/commit/544a11967417504c921350152090733afbe9a9d0))
+
+
+### BREAKING CHANGES
+
+* ui库替换
+
+
+
 # [1.2.0](https://github.com/qinzhiwei1993/changelog-demo-1/compare/v1.1.0...v1.2.0) (2023-07-12)
 
 
