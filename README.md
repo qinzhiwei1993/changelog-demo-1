@@ -9,3 +9,4 @@ commitlint changelog
 3. 测试changelog1
 4. feat
 5. 文档
+6. style
