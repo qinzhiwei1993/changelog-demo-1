@@ -8,3 +8,4 @@ commitlint changelog
 2. 校验规则 subject-case
 3. 测试changelog1
 4. feat
+5. 
