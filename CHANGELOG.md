@@ -1,3 +1,12 @@
+# [1.1.0](https://github.com/qinzhiwei1993/changelog-demo-1/compare/v1.0.0...v1.1.0) (2023-07-12)
+
+
+### ✨ Features | 新功能
+
+* 测试chagenlog ([4776ddf](https://github.com/qinzhiwei1993/changelog-demo-1/commit/4776ddf6bcb2a114e06ae54465871fd14204a1f1))
+
+
+
 # 1.0.0 (2023-07-12)
 
 
