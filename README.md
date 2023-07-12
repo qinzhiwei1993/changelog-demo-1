@@ -11,3 +11,4 @@ commitlint changelog
 5. 文档
 6. style
 7. refactor
+8. perf
