@@ -10,3 +10,4 @@ commitlint changelog
 4. feat
 5. 文档
 6. style
+7. refactor
