@@ -24,3 +24,4 @@ commitlint changelog
 10. test
 11. feat
 12. build
+13. fix
