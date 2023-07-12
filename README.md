@@ -23,3 +23,4 @@ commitlint changelog
 9. 构建，版本上线
 10. test
 11. feat
+12. build
