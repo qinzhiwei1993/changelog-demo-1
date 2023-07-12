@@ -1,3 +1,13 @@
+# [1.2.0](https://github.com/qinzhiwei1993/changelog-demo-1/compare/v1.1.0...v1.2.0) (2023-07-12)
+
+
+### ✨ Features | 新功能
+
+* 移除拦截gitcommit ([66d6391](https://github.com/qinzhiwei1993/changelog-demo-1/commit/66d63913e691fffac4f244b47372e906cd933366))
+* package.json版本升级 ([5d63a11](https://github.com/qinzhiwei1993/changelog-demo-1/commit/5d63a11d786b764dff83ff1eaa3745202a61399b))
+
+
+
 # [1.1.0](https://github.com/qinzhiwei1993/changelog-demo-1/compare/v1.0.0...v1.1.0) (2023-07-12)
 
 
