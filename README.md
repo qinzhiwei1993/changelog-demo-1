@@ -12,3 +12,4 @@ commitlint changelog
 6. style
 7. refactor
 8. perf
+9. 构建，版本上线
