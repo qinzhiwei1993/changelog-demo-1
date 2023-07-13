@@ -1,3 +1,32 @@
+# [1.6.0](https://github.com/qinzhiwei1993/changelog-demo-1/compare/v1.5.0...v1.6.0) (2023-07-13)
+
+
+### ✅ Tests | 测试
+
+* test ([ec6a255](https://github.com/qinzhiwei1993/changelog-demo-1/commit/ec6a2553215e2ab5a2529d623082560635fd3711))
+
+
+### 🎫 Chores | 其他更新
+
+* version ([731627d](https://github.com/qinzhiwei1993/changelog-demo-1/commit/731627db9047233797bcd1e92bfb7be68796c417))
+
+
+
+# [1.5.0](https://github.com/qinzhiwei1993/changelog-demo-1/compare/v1.4.0...v1.5.0) (2023-07-12)
+
+
+### ✨ Features | 新功能
+
+* feat新功能 ([8f4342f](https://github.com/qinzhiwei1993/changelog-demo-1/commit/8f4342ffa248acb8c071033c4476408cb73c38a9))
+* version升级 ([a8102a3](https://github.com/qinzhiwei1993/changelog-demo-1/commit/a8102a37b699dc366e3e3366c1902febc81f32f4))
+
+
+### 📝 Documentation | 文档
+
+* changelog ([fa0feaa](https://github.com/qinzhiwei1993/changelog-demo-1/commit/fa0feaa4159c1dae57deecd138d3b7da17755f8e))
+
+
+
 # [1.4.0](https://github.com/qinzhiwei1993/changelog-demo-1/compare/v1.3.0...v1.4.0) (2023-07-12)
 
 
